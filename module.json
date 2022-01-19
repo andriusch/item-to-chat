@@ -13,5 +13,6 @@
   "license": "https://github.com/andriusch/foundry-item-to-chat/blob/master/LICENSE",
   "readme": "https://github.com/andriusch/foundry-item-to-chat/blob/master/README.md",
   "changelog": "https://github.com/andriusch/foundry-item-to-chat/blob/master/CHANGELOG.md",
-  "bugs": "https://github.com/andriusch/foundry-item-to-chat/issues"
+  "bugs": "https://github.com/andriusch/foundry-item-to-chat/issues",
+  "download": "https://github.com/andriusch/item-to-chat/archive/refs/tags/0.1.0.zip"
 }
