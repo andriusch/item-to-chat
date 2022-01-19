@@ -1,0 +1,17 @@
+{
+  "name": "item-to-chat",
+  "title": "Item to Chat",
+  "description": "Adds a button in item sheet title bar to send item to chat. Works for items added to actor & for items in compendium.",
+  "author": "Andrius Chamentauskas",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "9.242",
+  "esmodules": ["scripts/item-to-chat.js"],
+  "system": ["pf2e"],
+  "url": "https://github.com/andriusch/foundry-item-to-chat",
+  "manifest": "https://github.com/andriusch/foundry-item-to-chat/blob/master/module.json",
+  "license": "https://github.com/andriusch/foundry-item-to-chat/blob/master/LICENSE",
+  "readme": "https://github.com/andriusch/foundry-item-to-chat/blob/master/README.md",
+  "changelog": "https://github.com/andriusch/foundry-item-to-chat/blob/master/CHANGELOG.md",
+  "bugs": "https://github.com/andriusch/foundry-item-to-chat/issues"
+}
