@@ -5,7 +5,7 @@
   "author": "Andrius Chamentauskas",
   "version": "0.1.1",
   "minimumCoreVersion": "0.8.9",
-  "compatibleCoreVersion": "9.242",
+  "compatibleCoreVersion": "9.269",
   "esmodules": ["scripts/item-to-chat.js"],
   "system": ["pf2e"],
   "url": "https://github.com/andriusch/foundry-item-to-chat",
