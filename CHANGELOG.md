@@ -1,3 +1,7 @@
+# 0.2.1
+
+- Update manifest with foundry 10 compatibility
+
 # 0.2.0
 
 - Allow sending to chat without actor selected/assigned
